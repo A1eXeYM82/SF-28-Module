@@ -7,7 +7,7 @@
 Оформить описание обнаруженных дефектов ( составить баг-репорты). Во время обучения вы работали с разными сервисами и шаблонами, используйте их для оформления тест-кейсов и обнаруженных дефектов. (если дефекты не будут обнаружены, то составить описание трех дефектов).
 
 
-Ссылка на тестирование требований, тест-кейсы, баг-репорты: https://docs.google.com/spreadsheets/d/1fud-PRu3fbjwMkJnbllPGUSlD6KvJY-yRyRmD25KMe0/edit?usp=sharing
+Ссылка на тестирование требований, тест-кейсы, баг-репорты: https://docs.google.com/spreadsheets/d/1TjcMRCJJPH_C0Wxvr9nGsl2BBYtk30OUjRFt6qhFQFE/edit?usp=sharing
 
 Проект выполнен с использованием: PageObject, Selenium и PyTest.
 
